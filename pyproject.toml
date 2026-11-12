@@ -1,0 +1,8 @@
+[project]
+name = "jsonl-to-json"
+version = "0.1.0"
+description = "Convert JSON Lines to a JSON array"
+requires-python = ">=3.9"
+license = "MIT"
+
+[tool.unittest]
